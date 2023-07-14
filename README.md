@@ -10,16 +10,15 @@ I am learning about Gen AI and LLMs. Currently, discovering its ample use cases 
 
 Here are some technologies and tools that I work with:
 
-- Programming Languages: [List of languages]
-- Front-end: [List of front-end technologies]
-- Back-end: [List of back-end technologies]
-- Databases: [List of databases]
-- Frameworks: [List of frameworks]
+- Programming Languages: [Python, Java, Javascript, C/C++, SQL, prolog, ARM, VHDL]
+- Databases: [Pgsql, Mysql]
+- Frameworks: [Django, Flask, NodeJS, Pytorch, Tensorfow]
+- Libraries: Langchain, Keras, Transformers, Pandas, NumPy, React/Redux
+- Tools: Wandb, Gradio, Github
 
+## 📈 My favourite languages
 
-## 📈 GitHub Stats
-
-![Nirbhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirbhay2727&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 
 ## 📫 How to Reach Me
