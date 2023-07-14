@@ -1,6 +1,6 @@
 # Hi there, I am Nirbhay 👋 🧑🏽‍💻
 
-Hi, I'm Nirbhay Kumar a grad student studying CS at IIT Delhi and an AI enthusiast from New Delhi, India 🇮🇳
+Hi, I'm Nirbhay Kumar a CS undergrad at IIT Delhi and an AI enthusiast from New Delhi, India 🇮🇳
 
 ## 🔭 What I'm Working On
 
