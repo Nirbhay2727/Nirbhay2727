@@ -10,9 +10,9 @@ I am learning about Gen AI and LLMs. Currently, discovering its ample use cases 
 
 Here are some technologies and tools that I work with:
 
-- Programming Languages: [Python, Java, Javascript, C/C++, SQL, prolog, ARM, VHDL]
-- Databases: [Pgsql, Mysql]
-- Frameworks: [Django, Flask, NodeJS, Pytorch, Tensorfow]
+- Programming Languages: Python, Java, Javascript, C/C++, SQL, prolog, ARM, VHDL
+- Databases: Postgres, Mysql
+- Frameworks: Django, Flask, NodeJS, Pytorch, Tensorfow
 - Libraries: Langchain, Keras, Transformers, Pandas, NumPy, React/Redux
 - Tools: Wandb, Gradio, Github
 
