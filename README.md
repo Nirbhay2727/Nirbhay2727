@@ -1,10 +1,10 @@
 # Hi there, I am Nirbhay 👋 🧑🏽‍💻
 
-I'm Nirbhay, a passionate coder from New Delhi, India. I love coding, exploring new technologies, and creating amazing projects
+Hi, I'm Nirbhay Kumar a grad student studying CS at IIT Delhi and an AI enthusiast from New Delhi, India 🇮🇳
 
 ## 🔭 What I'm Working On
 
-Currently, I am learning about Gen AI and discovering its ample use cases in the modern world.
+I am learning about Gen AI and LLMs. Currently, discovering its ample use cases in the modern world.
 
 ## 💻 Technologies and Tools
 
